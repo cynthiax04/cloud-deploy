@@ -1,1 +1,12 @@
-{}
+{
+  "name": "cloud-deploy-app",
+  "version": "1.0.0",
+  "description": "A simple Express app deployed to Render.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
